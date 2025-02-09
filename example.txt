@@ -1,1 +1,1 @@
-tst file
+Hello, this is an example file.
